@@ -129,7 +129,6 @@ class Francois:
 |---|---|---|
 | 🔐 [Turtle Shell Banking](https://github.com/JordanMuller039/INSY7314_InternationalPayments) | Secure international payments portal with JWT auth & rate limiting | TypeScript, Node.js, MongoDB |
 | 🏛️ [Municipality Services App](https://github.com/Francois05112002/VCCT-PROG7312-2025-G2) | Service request tracking with complex data structures & EF Core | C#, ASP.NET Core, SQL Server |
-| 📱 [CheffTingz](https://github.com/Francois05112002) | Cross-platform recipe app with course filtering & dynamic menus | React Native, TypeScript, Expo |
 | ⚽ [Footyx](https://github.com/Francois05112002/VCCT-PROG7314-2025-G2) | Native Android sports app | Kotlin, Android Studio |
 
 ---
@@ -145,10 +144,10 @@ class Francois:
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@email.com">
+  <a href="francoisfourie2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/louis-fourie-ba4275288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Francois05112002">
