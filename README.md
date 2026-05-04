@@ -18,7 +18,7 @@ class Francois:
     name       = "Louis Francois Fourie"
     location   = "Cape Town, South Africa 🇿🇦"
     role       = ["Fullstack Developer", "UI/UX Designer"]
-    studying   = "BSc Honours in Data Science (NQF Level 8) @ Varsity College"
+    studying   = "BSc Honours in Data Science (NQF Level 8) @ Emeris University"
     languages  = ["Python", "Java", "C#", "Kotlin", "TypeScript", "JavaScript", "SQL", "HTML/CSS"]
     focus      = ["Data Analytics", "Machine Learning", "Mobile & Web Development"]
     available  = True  # Open to freelance & collaboration
